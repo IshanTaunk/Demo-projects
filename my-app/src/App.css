@@ -2,3 +2,45 @@
     height: 100vh;
 }
 
+.toolbar{
+    list-style: none;
+    display: flex;
+}
+
+.toolbar li{
+    margin: 30px;
+    text-decoration: none;
+}
+
+.toolbar .link a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #8f8f8f !important;
+    font-size: 24px;
+    font-weight: 800;
+    transition: all 0.5s ease-in-out;
+    position: relative;
+}
+
+.toolbar .link a::before{
+    transition: 0.5s;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 0; 
+    overflow: hidden;
+    content: attr(data-item);
+    color: black !important;
+}
+
+a{
+    text-decoration: none;
+}
+
+.toolbar .link:hover a::before{
+    width: 100%;
+    transition: all 0.5s ease-in-out;
+    color: #8254ff;    
+}
