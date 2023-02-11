@@ -11,6 +11,7 @@ const Header=()=>{
                     <li><div className={'link'+(tabClass==="0"?" active":"")} onClick={()=>setTabClass("0")}><Link to="/" data-item="Home">Home</Link></div></li>
                     <li><div className={'link'+(tabClass==="1"?" active":"")} onClick={()=>setTabClass("1")}><Link to="/profile" data-item="Profile">Profile</Link></div></li>
                     <li><div className={'link'+(tabClass==="2"?" active":"")} onClick={()=>setTabClass("2")}><Link to="/components" data-item="Components">Components</Link></div></li>
+                    <li><div className={'link'+(tabClass==="3"?" active":"")} onClick={()=>setTabClass("3")}><Link to="/health-app" data-item="Health App">Health App</Link></div></li>
                 </ul>
             </nav>
     </div>

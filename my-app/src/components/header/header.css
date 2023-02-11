@@ -2,6 +2,7 @@
 .toolbar{
     list-style: none;
     display: flex;
+    background-color: #fff;
 }
 
 .toolbar li{
