@@ -66,6 +66,7 @@
 }
 
 .image img{
+    object-fit: cover;
     width: 90%;
     height: 90%;
     border-radius: 50%;

@@ -1,6 +1,11 @@
+import Card from "../../components/cards/card";
+import './Components.css';
+
 const Components=()=>{
     return <div>
-        This is Components Page.
+        <div className="cards-section">
+            <Card></Card>
+        </div>
     </div>
 }
 

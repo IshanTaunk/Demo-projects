@@ -2,7 +2,7 @@
     display: inline-flex;
     justify-content: space-between;
     width: -webkit-fill-available;
-    margin: 0 50px;
+    margin: 20px 50px 0;
     padding: 30px;
 }
 
@@ -52,4 +52,9 @@
 
 .radial-progress-bar{
     margin-right: 2rem;
+}
+
+.total-days{
+    text-transform: uppercase;
+    font-weight: 500;
 }

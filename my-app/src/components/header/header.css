@@ -3,6 +3,8 @@
     list-style: none;
     display: flex;
     background-color: #fff;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
 }
 
 .toolbar li{

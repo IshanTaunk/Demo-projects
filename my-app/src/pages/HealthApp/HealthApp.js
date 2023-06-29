@@ -8,7 +8,7 @@ const HealthApp=()=>{
     return <div>
         <div className="health-app-top-bar">
             <div>Date Picker</div>
-            <div>No. of days</div>
+            <div className="total-days">28 Days</div>
         </div>
         <div className="calories-section">
             <div className="calories-overview">
