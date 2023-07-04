@@ -7,8 +7,7 @@ const Home=()=>{
     return <>
     <div className="about-me">
         <div className="about-me-text">
-            <div className="about-me-text-header">Hi, I am Ishan Taunk</div> 
-            <div>I am an individual driven by creativity, innovation and passion, thriving for success through a continuous passion for learning and self development.</div>
+            <div className="about-me-text-header">Hi, I am Ishan Taunk</div>
             <div>As a Frontend Web Developer I specialise in creating functional and beautiful websites and web applications that are optimised for user experience. My expertise lies in HTML, CSS, JavaScript, Angular and React.</div> 
         </div>
         <div className="atlas-image">
@@ -22,9 +21,11 @@ const Home=()=>{
         <div className="work-experience-timeline">
             <div className="about-me-text-header">Work</div>
             <h3>AIDETIC (2020-2022)</h3>
-            <p>Worked as a frontend devloper</p>
+            <p>To develop responsive web applications using HTML5, CSS3, Javascript, React and Angular framework.</p>
+            <p>Projects: 73Strings, Contiq and Hiringbot.</p>
             <h3>Quantum (2022-Present)</h3>
-            <p>Worked as a frontend devloper</p>
+            <p>Working as a frontend devloper</p>
+            <p>Projects: Sizer tool, Template Upload, USP5.0(In Progress) </p>
         </div>
     </div>
     <div className="about-me">
