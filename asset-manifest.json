@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.382644e5.css",
-    "main.js": "/react-gh-pages/static/js/main.a507b028.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
-    "static/media/profile.jpg": "/react-gh-pages/static/media/profile.6e868d8574a7d7492e4b.jpg",
-    "static/media/inst.png": "/react-gh-pages/static/media/inst.4e16d5df53f670b9ba91.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/react-gh-pages/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/contact.jpg": "/react-gh-pages/static/media/contact.5acc879774965231bf40.jpg",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/atlas.jpg": "/react-gh-pages/static/media/atlas.7f879221045625a85573.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.382644e5.css.map": "/react-gh-pages/static/css/main.382644e5.css.map",
-    "main.a507b028.js.map": "/react-gh-pages/static/js/main.a507b028.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Demo-projects/static/css/main.939bd66d.css",
+    "main.js": "/Demo-projects/static/js/main.74334b04.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Demo-projects/static/js/787.28cb0dcd.chunk.js",
+    "static/media/profile.jpg": "/Demo-projects/static/media/profile.6e868d8574a7d7492e4b.jpg",
+    "static/media/inst.png": "/Demo-projects/static/media/inst.4e16d5df53f670b9ba91.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Demo-projects/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Demo-projects/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Demo-projects/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/contact.jpg": "/Demo-projects/static/media/contact.5acc879774965231bf40.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Demo-projects/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Demo-projects/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/atlas.jpg": "/Demo-projects/static/media/atlas.7f879221045625a85573.jpg",
+    "index.html": "/Demo-projects/index.html",
+    "main.939bd66d.css.map": "/Demo-projects/static/css/main.939bd66d.css.map",
+    "main.74334b04.js.map": "/Demo-projects/static/js/main.74334b04.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Demo-projects/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.382644e5.css",
-    "static/js/main.a507b028.js"
+    "static/css/main.939bd66d.css",
+    "static/js/main.74334b04.js"
   ]
 }
